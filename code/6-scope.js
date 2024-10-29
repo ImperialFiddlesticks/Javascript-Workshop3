@@ -12,4 +12,4 @@ function testScope() {
 // Task 3: Inside `testScope`, print both `globalVar` and `localVar`.
 testScope();
 // Task 4: Outside of the function, try to print `localVar` and observe the result.
-//console.log(localVar);
+console.log(localVar);
